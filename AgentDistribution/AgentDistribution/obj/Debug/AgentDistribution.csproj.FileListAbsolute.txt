@@ -1,0 +1,6 @@
+C:\Users\Timo\Documents\GitHub\agentDistributionInteractiveSimulation\AgentDistribution\AgentDistribution\bin\Debug\AgentDistribution.exe.config
+C:\Users\Timo\Documents\GitHub\agentDistributionInteractiveSimulation\AgentDistribution\AgentDistribution\obj\Debug\AgentDistribution.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Documents\GitHub\agentDistributionInteractiveSimulation\AgentDistribution\AgentDistribution\bin\Debug\AgentDistribution.exe
+C:\Users\Timo\Documents\GitHub\agentDistributionInteractiveSimulation\AgentDistribution\AgentDistribution\bin\Debug\AgentDistribution.pdb
+C:\Users\Timo\Documents\GitHub\agentDistributionInteractiveSimulation\AgentDistribution\AgentDistribution\obj\Debug\AgentDistribution.exe
+C:\Users\Timo\Documents\GitHub\agentDistributionInteractiveSimulation\AgentDistribution\AgentDistribution\obj\Debug\AgentDistribution.pdb
